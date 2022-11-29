@@ -1,0 +1,25 @@
+{
+  "name": "nexter",
+  "version": "1.0.0",
+  "description": "A website for finding houses",
+  "main": "index.js",
+  "scripts": {
+    "test": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AtiMRTZ/Nexter.git"
+  },
+  "keywords": [
+    "House"
+  ],
+  "author": "Atiyeh Mortazavi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AtiMRTZ/Nexter/issues"
+  },
+  "homepage": "https://github.com/AtiMRTZ/Nexter#readme",
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  }
+}
